@@ -11,7 +11,7 @@ CREATE TABLE student(
     age int 
     );
 SHOW TABLES;
-describe table student;
+describe tables student;
 DESCRIBE student;
 DESC student;
 
